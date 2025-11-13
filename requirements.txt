@@ -1,0 +1,7 @@
+motor==3.7.1
+numpy==2.3.3
+pandas==2.3.3
+plotly==5.23.0
+pytz==2025.2
+streamlit==1.47.0
+streamlit-aggrid==1.1.2
